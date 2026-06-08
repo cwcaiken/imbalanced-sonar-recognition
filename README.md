@@ -4,8 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 
-[![Stars](https://img.shields.io/github/stars/cwcaiken/imbalanced-sonar-recognition?style=social)](https://github.com/cwcaiken/imbalanced-sonar-recognition/stargazers)
-[![Forks](https://img.shields.io/github/forks/cwcaiken/imbalanced-sonar-recognition?style=social)](https://github.com/cwcaiken/imbalanced-sonar-recognition/network/members)
+[![Stars](https://img.shields.io/github/stars/cwcaiken/imbalanced-sonar-recognition.svg)](https://github.com/cwcaiken/imbalanced-sonar-recognition/stargazers)
+[![Forks](https://img.shields.io/github/forks/cwcaiken/imbalanced-sonar-recognition.svg)](https://github.com/cwcaiken/imbalanced-sonar-recognition/network/members)
 [![Issues](https://img.shields.io/github/issues/cwcaiken/imbalanced-sonar-recognition.svg)](https://github.com/cwcaiken/imbalanced-sonar-recognition/issues)
 [![Last commit](https://img.shields.io/github/last-commit/cwcaiken/imbalanced-sonar-recognition.svg)](https://github.com/cwcaiken/imbalanced-sonar-recognition/commits/main)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cwcaiken.imbalanced-sonar-recognition)
