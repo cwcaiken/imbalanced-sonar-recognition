@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Datasets and model artifacts (not tracked)
+NKSID/
+FLSMDD/
+*.npy
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+
+# Generated outputs
+*.png
+*.jpg
+*.jpeg
+samples/
+results/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,9 @@
+# Tested with Python 3.8+ and TensorFlow 2.x
+tensorflow>=2.8
+numpy
+scipy
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+imageio

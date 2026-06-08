@@ -251,8 +251,8 @@ def build_model(path, input_shape, n_classes):
 
     return model
 
-#path = 'C:/Users/70916/Desktop/bagangp/FLSMDD/'
-path = 'C:/Users/70916/Desktop/bagangp/NKSID/'
+#path = './FLSMDD/'
+path = './NKSID/'
 
 model = build_model(path, input_shape=(64,64,3), n_classes=8)
 
@@ -271,11 +271,11 @@ with tf.keras.utils.custom_object_scope(custom_objects):
 # 加载保存的模型
 #model = tf.keras.models.load_model('path_to_your_model')  # 替换为你的模型路径
 
-path = 'C:/Users/70916/Desktop/bagangp/NKSID/'
+path = './NKSID/'
 labels = ['big_propeller', 'cylinder', 'fishing_net','floats', 
        'iron_pipeline', 'small_propeller', 'soft_pipeline','tire']
 
-#path = 'C:/Users/70916/Desktop/bagangp/FLSMDD/'
+#path = './FLSMDD/'
 # labels = ['bottle', 'can', 'chain','drink-carton', 'hook', 
 #             'propeller', 'shampoo-bottle', 'standing-bottle','tire', 'valve']
 

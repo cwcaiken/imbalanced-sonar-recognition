@@ -232,11 +232,11 @@ custom_objects = {
 tf.keras.utils.get_custom_objects().update(custom_objects)
 # %% --------------------------------------- Load Models ---------------------------------------------------------------
 
-path = 'C:/Users/70916/Desktop/bagangp/FLSMDD/'
+path = './FLSMDD/'
 labels = ['bottle', 'can', 'chain','drink-carton', 'hook', 
             'propeller', 'shampoo-bottle', 'standing-bottle','tire', 'valve']
 
-path = 'C:/Users/70916/Desktop/bagangp/NKSID/'
+path = './NKSID/'
 labels = ['big_propeller', 'cylinder', 'fishing_net','floats', 
         'iron_pipeline', 'small_propeller', 'soft_pipeline','tire']
 x_train, y_train = np.load(path +'x_train1.npy')[:1000]/255, np.load(path +'y_train1.npy')[:1000]

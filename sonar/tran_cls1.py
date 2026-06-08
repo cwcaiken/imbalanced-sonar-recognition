@@ -354,11 +354,11 @@ class PlotProgress(Callback):
 
 def main():
 
-    path = 'C:/Users/70916/Desktop/bagangp/NKSID/'
+    path = './NKSID/'
     labels = ['big_propeller', 'cylinder', 'fishing_net','floats', 
        'iron_pipeline', 'small_propeller', 'soft_pipeline','tire']
 
-    # path = 'C:/Users/70916/Desktop/bagangp/FLSMDD/'
+    # path = './FLSMDD/'
     # labels = ['bottle', 'can', 'chain','drink-carton', 'hook', 
     #         'propeller', 'shampoo-bottle', 'standing-bottle','tire', 'valve']
 
